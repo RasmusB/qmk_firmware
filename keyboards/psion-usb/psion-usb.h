@@ -1,5 +1,7 @@
 #pragma once
 
+#include "quantum.h"
+
 #define _____ KC_NO
 
 #define LAYOUT( \
